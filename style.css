@@ -83,10 +83,10 @@ img{
     border-radius: 20%;
 }
 .ml{
-    background-color: rgb(43, 7, 126);
+    background-color: rgb(95, 33, 240);
     float:left;
-    width:0.2%;
-    height:11cm;
+    width:0.18%;
+    height:8.5cm;
 }
 .mr{
     padding:20px;
@@ -96,7 +96,7 @@ img{
     
 }
 .mr m{
-    color: rgb(77, 54, 129);
+    color: rgb(95, 33, 240);
 }
 @media screen and (max-width:521px){
 
